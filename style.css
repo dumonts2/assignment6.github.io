@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+img {
+    width: 500px;
+    
+}
+.ballons{
+    width: 200px;
+}
+h3{
+    font-family: 'Spicy Rice', cursive;
+    font-size: 40px;
+    font-weight: 100;
+    color: #ee3e89;
+}
+p{font-family:'Darumadrop One', cursive;
+    color: #ee3e89;
+}
